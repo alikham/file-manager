@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Thu Jun 04 12:52:02 IST 2020
+#Thu Jun 04 13:36:45 IST 2020
 5.base=D\:\\Dev\\Mobile Apps\\File_manager\\build\\app\\intermediates\\merged_assets\\release\\mergeReleaseAssets\\out
 42.base=D\:\\Dev\\Mobile Apps\\File_manager\\build\\app\\intermediates\\merged_assets\\release\\mergeReleaseAssets\\out
 22.path=flutter_assets/assets/images/2.0x/zip.png

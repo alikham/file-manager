@@ -389,12 +389,9 @@ class _FileManagerState extends State<FileManager> {
   void renameFile(FileSystemEntity file) {
     TextEditingController _controller = TextEditingController();
     _controller.text = p.basename(file.path);
-    String renameTextHint = '';
-    if (file is File) {
-      renameTextHint = 'File Name';
-    } else {
-      renameTextHint = 'Folder Name';
-    }
+    
+    bool isFile = file is File;
+
     showCupertinoDialog(
       context: context,
       builder: (BuildContext context) {
@@ -410,7 +407,7 @@ class _FileManagerState extends State<FileManager> {
                   decoration: InputDecoration(
                     focusedBorder: OutlineInputBorder(
                         borderRadius: BorderRadius.circular(2.0)),
-                    hintText: renameTextHint,
+                    hintText: isFile? 'File Name': 'Folder Name',
                     border: OutlineInputBorder(
                         borderRadius: BorderRadius.circular(4.0)),
                     contentPadding: EdgeInsets.all(10.0),
@@ -437,11 +434,12 @@ class _FileManagerState extends State<FileManager> {
                           gravity: ToastGravity.CENTER);
                       return;
                     }
-              
+
                     String newPath = file.parent.path +
                         '/' +
                         newName +
-                        p.extension(file.path);
+                        (isFile?p.extension(file.path):'');
+                        
                     file.renameSync(newPath);
                     initPathFiles(file.parent.path);
 
