@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Dev\\Mobile Apps\\File_manager\\flutter_file_manager\\build\\open_file\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-lo\\values-lo.xml",
+            "outputFile": "D:\\Dev\\Mobile Apps\\File_manager\\build\\open_file\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-lo\\values-lo.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Envy15\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\db4f817d43155ab47a437cf0857262a9\\res\\values-lo\\values-lo.xml",
@@ -16,7 +16,7 @@
             ]
         },
         {
-            "outputFile": "D:\\Dev\\Mobile Apps\\File_manager\\flutter_file_manager\\build\\open_file\\intermediates\\res\\merged\\release\\values-lo\\values-lo.xml",
+            "outputFile": "D:\\Dev\\Mobile Apps\\File_manager\\build\\open_file\\intermediates\\res\\merged\\release\\values-lo\\values-lo.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Envy15\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\db4f817d43155ab47a437cf0857262a9\\res\\values-lo\\values-lo.xml",

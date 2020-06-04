@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Dev\\Mobile Apps\\File_manager\\flutter_file_manager\\build\\path_provider\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-bn\\values-bn.xml",
+            "outputFile": "D:\\Dev\\Mobile Apps\\File_manager\\build\\path_provider\\intermediates\\res\\merged\\release\\values-bn\\values-bn.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Envy15\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\db4f817d43155ab47a437cf0857262a9\\res\\values-bn\\values-bn.xml",
@@ -16,7 +16,7 @@
             ]
         },
         {
-            "outputFile": "D:\\Dev\\Mobile Apps\\File_manager\\flutter_file_manager\\build\\path_provider\\intermediates\\res\\merged\\release\\values-bn\\values-bn.xml",
+            "outputFile": "D:\\Dev\\Mobile Apps\\File_manager\\build\\path_provider\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-bn\\values-bn.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Envy15\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\db4f817d43155ab47a437cf0857262a9\\res\\values-bn\\values-bn.xml",

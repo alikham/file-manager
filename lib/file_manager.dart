@@ -10,9 +10,6 @@ import 'package:open_file/open_file.dart';
 import 'package:path/path.dart' as p;
 import 'package:intl/intl.dart';
 
-/// 点击一个文件夹，传入文件夹的路径，显示该文件夹下的文件和文件夹
-/// 点击一个文件，打开
-/// 返回上一层，返回上一层目录路径 [dir.parent.path]
 class FileManager extends StatefulWidget {
   @override
   _FileManagerState createState() => _FileManagerState();
@@ -35,7 +32,6 @@ class _FileManagerState extends State<FileManager> {
   }
 
   Future<bool> onWillPop() async {
-    // print('parentDir path ${parentDir.path}');
     if (parentDir.path != Common().sDCardDir) {
       initPathFiles(parentDir.parent.path);
       jumpToPosition(false);
@@ -351,7 +347,6 @@ class _FileManagerState extends State<FileManager> {
                   toMoveFile = false;
                 });
                 Navigator.pop(context);
-
               },
             ),
           ],
@@ -393,6 +388,7 @@ class _FileManagerState extends State<FileManager> {
   // rename file
   void renameFile(FileSystemEntity file) {
     TextEditingController _controller = TextEditingController();
+    _controller.text = p.basename(file.path);
     String renameTextHint = '';
     if (file is File) {
       renameTextHint = 'File Name';
@@ -441,7 +437,7 @@ class _FileManagerState extends State<FileManager> {
                           gravity: ToastGravity.CENTER);
                       return;
                     }
-
+              
                     String newPath = file.parent.path +
                         '/' +
                         newName +

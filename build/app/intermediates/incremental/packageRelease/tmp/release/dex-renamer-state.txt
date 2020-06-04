@@ -1,4 +1,4 @@
-#Mon Jun 01 20:53:51 IST 2020
-base.0=D\:\\Dev\\Mobile Apps\\File_manager\\flutter_file_manager\\build\\app\\intermediates\\transforms\\dexMerger\\release\\0
+#Thu Jun 04 12:52:02 IST 2020
+base.0=D\:\\Dev\\Mobile Apps\\File_manager\\build\\app\\intermediates\\transforms\\dexMerger\\release\\0
 path.0=classes.dex
 renamed.0=classes.dex

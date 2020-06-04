@@ -1,14 +1,14 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Dev\Mobile Apps\File_manager\flutter_file_manager\android\app\src\main\AndroidManifest.xml:1:1-43:12
-INJECTED from D:\Dev\Mobile Apps\File_manager\flutter_file_manager\android\app\src\main\AndroidManifest.xml:1:1-43:12
-INJECTED from D:\Dev\Mobile Apps\File_manager\flutter_file_manager\android\app\src\main\AndroidManifest.xml:1:1-43:12
-INJECTED from D:\Dev\Mobile Apps\File_manager\flutter_file_manager\android\app\src\main\AndroidManifest.xml:1:1-43:12
-MERGED from [:fluttertoast] D:\Dev\Mobile Apps\File_manager\flutter_file_manager\build\fluttertoast\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
-MERGED from [:permission_handler] D:\Dev\Mobile Apps\File_manager\flutter_file_manager\build\permission_handler\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
-MERGED from [:open_file] D:\Dev\Mobile Apps\File_manager\flutter_file_manager\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-24:12
-MERGED from [:path_provider] D:\Dev\Mobile Apps\File_manager\flutter_file_manager\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
-MERGED from [:ext_storage] D:\Dev\Mobile Apps\File_manager\flutter_file_manager\build\ext_storage\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+ADDED from D:\Dev\Mobile Apps\File_manager\android\app\src\main\AndroidManifest.xml:1:1-43:12
+INJECTED from D:\Dev\Mobile Apps\File_manager\android\app\src\main\AndroidManifest.xml:1:1-43:12
+INJECTED from D:\Dev\Mobile Apps\File_manager\android\app\src\main\AndroidManifest.xml:1:1-43:12
+INJECTED from D:\Dev\Mobile Apps\File_manager\android\app\src\main\AndroidManifest.xml:1:1-43:12
+MERGED from [:fluttertoast] D:\Dev\Mobile Apps\File_manager\build\fluttertoast\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:permission_handler] D:\Dev\Mobile Apps\File_manager\build\permission_handler\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:open_file] D:\Dev\Mobile Apps\File_manager\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-24:12
+MERGED from [:path_provider] D:\Dev\Mobile Apps\File_manager\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:ext_storage] D:\Dev\Mobile Apps\File_manager\build\ext_storage\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Envy15\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\7b3b55f7094bdc57e77f7cc38f43f84b\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Envy15\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0.aar\5e5b9f74a9b87eb3714c45166b9501de\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Envy15\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\e9c5ae08962f00339c4d1dd775f6f749\AndroidManifest.xml:17:1-22:12
@@ -36,45 +36,45 @@ MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\User
 MERGED from [androidx.print:print:1.0.0] C:\Users\Envy15\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\9cb3c33877133969b94400a8e815c094\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Envy15\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\283d7f870f76668f677c1c38d53ab930\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Envy15\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\d3d90471286c516c39a2bbb1d628d325\AndroidManifest.xml:17:1-22:12
-INJECTED from D:\Dev\Mobile Apps\File_manager\flutter_file_manager\android\app\src\main\AndroidManifest.xml:1:1-43:12
-INJECTED from D:\Dev\Mobile Apps\File_manager\flutter_file_manager\android\app\src\main\AndroidManifest.xml:1:1-43:12
-INJECTED from D:\Dev\Mobile Apps\File_manager\flutter_file_manager\android\app\src\main\AndroidManifest.xml:1:1-43:12
+INJECTED from D:\Dev\Mobile Apps\File_manager\android\app\src\main\AndroidManifest.xml:1:1-43:12
+INJECTED from D:\Dev\Mobile Apps\File_manager\android\app\src\main\AndroidManifest.xml:1:1-43:12
+INJECTED from D:\Dev\Mobile Apps\File_manager\android\app\src\main\AndroidManifest.xml:1:1-43:12
 	package
-		ADDED from D:\Dev\Mobile Apps\File_manager\flutter_file_manager\android\app\src\main\AndroidManifest.xml:2:5-50
-		INJECTED from D:\Dev\Mobile Apps\File_manager\flutter_file_manager\android\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Dev\Mobile Apps\File_manager\flutter_file_manager\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Dev\Mobile Apps\File_manager\android\app\src\main\AndroidManifest.xml:2:5-50
+		INJECTED from D:\Dev\Mobile Apps\File_manager\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Dev\Mobile Apps\File_manager\android\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\Dev\Mobile Apps\File_manager\flutter_file_manager\android\app\src\main\AndroidManifest.xml
-		ADDED from D:\Dev\Mobile Apps\File_manager\flutter_file_manager\android\app\src\main\AndroidManifest.xml:1:1-43:12
-		INJECTED from D:\Dev\Mobile Apps\File_manager\flutter_file_manager\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Dev\Mobile Apps\File_manager\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Dev\Mobile Apps\File_manager\android\app\src\main\AndroidManifest.xml:1:1-43:12
+		INJECTED from D:\Dev\Mobile Apps\File_manager\android\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from D:\Dev\Mobile Apps\File_manager\flutter_file_manager\android\app\src\main\AndroidManifest.xml
-		ADDED from D:\Dev\Mobile Apps\File_manager\flutter_file_manager\android\app\src\main\AndroidManifest.xml:1:1-43:12
-		INJECTED from D:\Dev\Mobile Apps\File_manager\flutter_file_manager\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Dev\Mobile Apps\File_manager\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Dev\Mobile Apps\File_manager\android\app\src\main\AndroidManifest.xml:1:1-43:12
+		INJECTED from D:\Dev\Mobile Apps\File_manager\android\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\Dev\Mobile Apps\File_manager\flutter_file_manager\android\app\src\main\AndroidManifest.xml:1:11-69
+		ADDED from D:\Dev\Mobile Apps\File_manager\android\app\src\main\AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from D:\Dev\Mobile Apps\File_manager\flutter_file_manager\android\app\src\main\AndroidManifest.xml:8:5-66
+ADDED from D:\Dev\Mobile Apps\File_manager\android\app\src\main\AndroidManifest.xml:8:5-66
 	android:name
-		ADDED from D:\Dev\Mobile Apps\File_manager\flutter_file_manager\android\app\src\main\AndroidManifest.xml:8:22-64
+		ADDED from D:\Dev\Mobile Apps\File_manager\android\app\src\main\AndroidManifest.xml:8:22-64
 uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
-ADDED from D:\Dev\Mobile Apps\File_manager\flutter_file_manager\android\app\src\main\AndroidManifest.xml:10:5-84
+ADDED from D:\Dev\Mobile Apps\File_manager\android\app\src\main\AndroidManifest.xml:10:5-84
 	android:name
-		ADDED from D:\Dev\Mobile Apps\File_manager\flutter_file_manager\android\app\src\main\AndroidManifest.xml:10:22-81
+		ADDED from D:\Dev\Mobile Apps\File_manager\android\app\src\main\AndroidManifest.xml:10:22-81
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from D:\Dev\Mobile Apps\File_manager\flutter_file_manager\android\app\src\main\AndroidManifest.xml:11:5-81
+ADDED from D:\Dev\Mobile Apps\File_manager\android\app\src\main\AndroidManifest.xml:11:5-81
 	android:name
-		ADDED from D:\Dev\Mobile Apps\File_manager\flutter_file_manager\android\app\src\main\AndroidManifest.xml:11:22-78
+		ADDED from D:\Dev\Mobile Apps\File_manager\android\app\src\main\AndroidManifest.xml:11:22-78
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from D:\Dev\Mobile Apps\File_manager\flutter_file_manager\android\app\src\main\AndroidManifest.xml:12:5-80
-MERGED from [:open_file] D:\Dev\Mobile Apps\File_manager\flutter_file_manager\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-80
-MERGED from [:open_file] D:\Dev\Mobile Apps\File_manager\flutter_file_manager\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-80
+ADDED from D:\Dev\Mobile Apps\File_manager\android\app\src\main\AndroidManifest.xml:12:5-80
+MERGED from [:open_file] D:\Dev\Mobile Apps\File_manager\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-80
+MERGED from [:open_file] D:\Dev\Mobile Apps\File_manager\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-80
 	android:name
-		ADDED from D:\Dev\Mobile Apps\File_manager\flutter_file_manager\android\app\src\main\AndroidManifest.xml:12:22-77
+		ADDED from D:\Dev\Mobile Apps\File_manager\android\app\src\main\AndroidManifest.xml:12:22-77
 application
-ADDED from D:\Dev\Mobile Apps\File_manager\flutter_file_manager\android\app\src\main\AndroidManifest.xml:19:5-42:19
-MERGED from [:open_file] D:\Dev\Mobile Apps\File_manager\flutter_file_manager\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-22:19
-MERGED from [:open_file] D:\Dev\Mobile Apps\File_manager\flutter_file_manager\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-22:19
+ADDED from D:\Dev\Mobile Apps\File_manager\android\app\src\main\AndroidManifest.xml:19:5-42:19
+MERGED from [:open_file] D:\Dev\Mobile Apps\File_manager\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-22:19
+MERGED from [:open_file] D:\Dev\Mobile Apps\File_manager\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-22:19
 MERGED from [androidx.core:core:1.1.0] C:\Users\Envy15\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\db4f817d43155ab47a437cf0857262a9\AndroidManifest.xml:24:5-89
 MERGED from [androidx.core:core:1.1.0] C:\Users\Envy15\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\db4f817d43155ab47a437cf0857262a9\AndroidManifest.xml:24:5-89
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Envy15\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\986677a68e0efba80a38816b056ae0cf\AndroidManifest.xml:24:5-25:19
@@ -82,55 +82,55 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\En
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.1.0] C:\Users\Envy15\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\db4f817d43155ab47a437cf0857262a9\AndroidManifest.xml:24:18-86
 	android:label
-		ADDED from D:\Dev\Mobile Apps\File_manager\flutter_file_manager\android\app\src\main\AndroidManifest.xml:21:9-37
+		ADDED from D:\Dev\Mobile Apps\File_manager\android\app\src\main\AndroidManifest.xml:21:9-37
 	android:icon
-		ADDED from D:\Dev\Mobile Apps\File_manager\flutter_file_manager\android\app\src\main\AndroidManifest.xml:22:9-43
+		ADDED from D:\Dev\Mobile Apps\File_manager\android\app\src\main\AndroidManifest.xml:22:9-43
 	android:name
-		ADDED from D:\Dev\Mobile Apps\File_manager\flutter_file_manager\android\app\src\main\AndroidManifest.xml:20:9-57
+		ADDED from D:\Dev\Mobile Apps\File_manager\android\app\src\main\AndroidManifest.xml:20:9-57
 activity#com.huangweilong.flutterfilemanager.MainActivity
-ADDED from D:\Dev\Mobile Apps\File_manager\flutter_file_manager\android\app\src\main\AndroidManifest.xml:23:9-41:20
+ADDED from D:\Dev\Mobile Apps\File_manager\android\app\src\main\AndroidManifest.xml:23:9-41:20
 	android:launchMode
-		ADDED from D:\Dev\Mobile Apps\File_manager\flutter_file_manager\android\app\src\main\AndroidManifest.xml:25:13-43
+		ADDED from D:\Dev\Mobile Apps\File_manager\android\app\src\main\AndroidManifest.xml:25:13-43
 	android:hardwareAccelerated
-		ADDED from D:\Dev\Mobile Apps\File_manager\flutter_file_manager\android\app\src\main\AndroidManifest.xml:28:13-47
+		ADDED from D:\Dev\Mobile Apps\File_manager\android\app\src\main\AndroidManifest.xml:28:13-47
 	android:windowSoftInputMode
-		ADDED from D:\Dev\Mobile Apps\File_manager\flutter_file_manager\android\app\src\main\AndroidManifest.xml:29:13-55
+		ADDED from D:\Dev\Mobile Apps\File_manager\android\app\src\main\AndroidManifest.xml:29:13-55
 	android:configChanges
-		ADDED from D:\Dev\Mobile Apps\File_manager\flutter_file_manager\android\app\src\main\AndroidManifest.xml:27:13-137
+		ADDED from D:\Dev\Mobile Apps\File_manager\android\app\src\main\AndroidManifest.xml:27:13-137
 	android:theme
-		ADDED from D:\Dev\Mobile Apps\File_manager\flutter_file_manager\android\app\src\main\AndroidManifest.xml:26:13-47
+		ADDED from D:\Dev\Mobile Apps\File_manager\android\app\src\main\AndroidManifest.xml:26:13-47
 	android:name
-		ADDED from D:\Dev\Mobile Apps\File_manager\flutter_file_manager\android\app\src\main\AndroidManifest.xml:24:13-41
+		ADDED from D:\Dev\Mobile Apps\File_manager\android\app\src\main\AndroidManifest.xml:24:13-41
 meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
-ADDED from D:\Dev\Mobile Apps\File_manager\flutter_file_manager\android\app\src\main\AndroidManifest.xml:34:13-36:40
+ADDED from D:\Dev\Mobile Apps\File_manager\android\app\src\main\AndroidManifest.xml:34:13-36:40
 	android:value
-		ADDED from D:\Dev\Mobile Apps\File_manager\flutter_file_manager\android\app\src\main\AndroidManifest.xml:36:17-37
+		ADDED from D:\Dev\Mobile Apps\File_manager\android\app\src\main\AndroidManifest.xml:36:17-37
 	android:name
-		ADDED from D:\Dev\Mobile Apps\File_manager\flutter_file_manager\android\app\src\main\AndroidManifest.xml:35:17-82
+		ADDED from D:\Dev\Mobile Apps\File_manager\android\app\src\main\AndroidManifest.xml:35:17-82
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\Dev\Mobile Apps\File_manager\flutter_file_manager\android\app\src\main\AndroidManifest.xml:37:13-40:29
+ADDED from D:\Dev\Mobile Apps\File_manager\android\app\src\main\AndroidManifest.xml:37:13-40:29
 action#android.intent.action.MAIN
-ADDED from D:\Dev\Mobile Apps\File_manager\flutter_file_manager\android\app\src\main\AndroidManifest.xml:38:17-68
+ADDED from D:\Dev\Mobile Apps\File_manager\android\app\src\main\AndroidManifest.xml:38:17-68
 	android:name
-		ADDED from D:\Dev\Mobile Apps\File_manager\flutter_file_manager\android\app\src\main\AndroidManifest.xml:38:25-66
+		ADDED from D:\Dev\Mobile Apps\File_manager\android\app\src\main\AndroidManifest.xml:38:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\Dev\Mobile Apps\File_manager\flutter_file_manager\android\app\src\main\AndroidManifest.xml:39:17-76
+ADDED from D:\Dev\Mobile Apps\File_manager\android\app\src\main\AndroidManifest.xml:39:17-76
 	android:name
-		ADDED from D:\Dev\Mobile Apps\File_manager\flutter_file_manager\android\app\src\main\AndroidManifest.xml:39:27-74
+		ADDED from D:\Dev\Mobile Apps\File_manager\android\app\src\main\AndroidManifest.xml:39:27-74
 uses-sdk
-INJECTED from D:\Dev\Mobile Apps\File_manager\flutter_file_manager\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\Dev\Mobile Apps\File_manager\flutter_file_manager\android\app\src\main\AndroidManifest.xml
-INJECTED from D:\Dev\Mobile Apps\File_manager\flutter_file_manager\android\app\src\main\AndroidManifest.xml
-MERGED from [:fluttertoast] D:\Dev\Mobile Apps\File_manager\flutter_file_manager\build\fluttertoast\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:fluttertoast] D:\Dev\Mobile Apps\File_manager\flutter_file_manager\build\fluttertoast\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:permission_handler] D:\Dev\Mobile Apps\File_manager\flutter_file_manager\build\permission_handler\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:permission_handler] D:\Dev\Mobile Apps\File_manager\flutter_file_manager\build\permission_handler\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:open_file] D:\Dev\Mobile Apps\File_manager\flutter_file_manager\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:6:5-44
-MERGED from [:open_file] D:\Dev\Mobile Apps\File_manager\flutter_file_manager\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:6:5-44
-MERGED from [:path_provider] D:\Dev\Mobile Apps\File_manager\flutter_file_manager\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:path_provider] D:\Dev\Mobile Apps\File_manager\flutter_file_manager\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:ext_storage] D:\Dev\Mobile Apps\File_manager\flutter_file_manager\build\ext_storage\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:ext_storage] D:\Dev\Mobile Apps\File_manager\flutter_file_manager\build\ext_storage\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+INJECTED from D:\Dev\Mobile Apps\File_manager\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Dev\Mobile Apps\File_manager\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\Dev\Mobile Apps\File_manager\android\app\src\main\AndroidManifest.xml
+MERGED from [:fluttertoast] D:\Dev\Mobile Apps\File_manager\build\fluttertoast\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:fluttertoast] D:\Dev\Mobile Apps\File_manager\build\fluttertoast\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler] D:\Dev\Mobile Apps\File_manager\build\permission_handler\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler] D:\Dev\Mobile Apps\File_manager\build\permission_handler\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:open_file] D:\Dev\Mobile Apps\File_manager\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:6:5-44
+MERGED from [:open_file] D:\Dev\Mobile Apps\File_manager\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:6:5-44
+MERGED from [:path_provider] D:\Dev\Mobile Apps\File_manager\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] D:\Dev\Mobile Apps\File_manager\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:ext_storage] D:\Dev\Mobile Apps\File_manager\build\ext_storage\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:ext_storage] D:\Dev\Mobile Apps\File_manager\build\ext_storage\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Envy15\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\7b3b55f7094bdc57e77f7cc38f43f84b\AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Envy15\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\7b3b55f7094bdc57e77f7cc38f43f84b\AndroidManifest.xml:20:5-44
 MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Envy15\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0.aar\5e5b9f74a9b87eb3714c45166b9501de\AndroidManifest.xml:20:5-22:41
@@ -185,35 +185,35 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Envy15\.gradle\c
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Envy15\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\283d7f870f76668f677c1c38d53ab930\AndroidManifest.xml:20:5-44
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Envy15\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\d3d90471286c516c39a2bbb1d628d325\AndroidManifest.xml:20:5-44
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Envy15\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\d3d90471286c516c39a2bbb1d628d325\AndroidManifest.xml:20:5-44
-INJECTED from D:\Dev\Mobile Apps\File_manager\flutter_file_manager\android\app\src\main\AndroidManifest.xml
-INJECTED from D:\Dev\Mobile Apps\File_manager\flutter_file_manager\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\Dev\Mobile Apps\File_manager\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\Dev\Mobile Apps\File_manager\android\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from D:\Dev\Mobile Apps\File_manager\flutter_file_manager\android\app\src\main\AndroidManifest.xml
-		ADDED from D:\Dev\Mobile Apps\File_manager\flutter_file_manager\android\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Dev\Mobile Apps\File_manager\flutter_file_manager\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Dev\Mobile Apps\File_manager\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Dev\Mobile Apps\File_manager\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Dev\Mobile Apps\File_manager\android\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\Dev\Mobile Apps\File_manager\flutter_file_manager\android\app\src\main\AndroidManifest.xml
-		ADDED from D:\Dev\Mobile Apps\File_manager\flutter_file_manager\android\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Dev\Mobile Apps\File_manager\flutter_file_manager\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Dev\Mobile Apps\File_manager\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Dev\Mobile Apps\File_manager\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Dev\Mobile Apps\File_manager\android\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.REQUEST_INSTALL_PACKAGES
-ADDED from [:open_file] D:\Dev\Mobile Apps\File_manager\flutter_file_manager\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-83
+ADDED from [:open_file] D:\Dev\Mobile Apps\File_manager\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-83
 	android:name
-		ADDED from [:open_file] D:\Dev\Mobile Apps\File_manager\flutter_file_manager\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:8:22-80
+		ADDED from [:open_file] D:\Dev\Mobile Apps\File_manager\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:8:22-80
 provider#androidx.core.content.FileProvider
-ADDED from [:open_file] D:\Dev\Mobile Apps\File_manager\flutter_file_manager\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-21:20
+ADDED from [:open_file] D:\Dev\Mobile Apps\File_manager\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-21:20
 	android:grantUriPermissions
-		ADDED from [:open_file] D:\Dev\Mobile Apps\File_manager\flutter_file_manager\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-47
+		ADDED from [:open_file] D:\Dev\Mobile Apps\File_manager\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-47
 	android:authorities
-		ADDED from [:open_file] D:\Dev\Mobile Apps\File_manager\flutter_file_manager\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-64
+		ADDED from [:open_file] D:\Dev\Mobile Apps\File_manager\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-64
 	android:exported
-		ADDED from [:open_file] D:\Dev\Mobile Apps\File_manager\flutter_file_manager\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-37
+		ADDED from [:open_file] D:\Dev\Mobile Apps\File_manager\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-37
 	tools:replace
-		ADDED from [:open_file] D:\Dev\Mobile Apps\File_manager\flutter_file_manager\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-48
+		ADDED from [:open_file] D:\Dev\Mobile Apps\File_manager\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-48
 	android:name
-		ADDED from [:open_file] D:\Dev\Mobile Apps\File_manager\flutter_file_manager\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-62
+		ADDED from [:open_file] D:\Dev\Mobile Apps\File_manager\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-62
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from [:open_file] D:\Dev\Mobile Apps\File_manager\flutter_file_manager\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:18:13-20:53
+ADDED from [:open_file] D:\Dev\Mobile Apps\File_manager\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:18:13-20:53
 	android:resource
-		ADDED from [:open_file] D:\Dev\Mobile Apps\File_manager\flutter_file_manager\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:20:17-50
+		ADDED from [:open_file] D:\Dev\Mobile Apps\File_manager\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:20:17-50
 	android:name
-		ADDED from [:open_file] D:\Dev\Mobile Apps\File_manager\flutter_file_manager\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:19:17-67
+		ADDED from [:open_file] D:\Dev\Mobile Apps\File_manager\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:19:17-67

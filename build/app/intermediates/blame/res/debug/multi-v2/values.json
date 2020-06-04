@@ -1,27 +1,8 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Dev\\Mobile Apps\\File_manager\\flutter_file_manager\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "D:\\Dev\\Mobile Apps\\File_manager\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
-                {
-                    "source": "D:\\Dev\\Mobile Apps\\File_manager\\flutter_file_manager\\android\\app\\src\\main\\res\\values\\styles.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "57",
-                        "endLines": "6",
-                        "endColumns": "12",
-                        "endOffsets": "353"
-                    },
-                    "to": {
-                        "startLines": "87",
-                        "startColumns": "4",
-                        "startOffsets": "5245",
-                        "endLines": "91",
-                        "endColumns": "12",
-                        "endOffsets": "5537"
-                    }
-                },
                 {
                     "source": "C:\\Users\\Envy15\\.gradle\\caches\\transforms-1\\files-1.1\\media-1.0.0.aar\\b8fde0d6efb4f316b3b119e8020657ef\\res\\values\\values.xml",
                     "from": {
@@ -75,6 +56,25 @@
                         "endLines": "3,4,7,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,85,86,92,96,98,104,106,108,109,119,261,293,330,337",
                         "endColumns": "68,62,57,73,69,67,71,69,60,73,72,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,64,58,58,59,59,59,59,59,59,59,59,59,59,58,59,59,59,59,59,59,59,59,59,59,58,59,59,58,58,58,58,58,58,34,34,54,62,54,57,56,49,60,56,33,34,34,69,70,116,12,109,12,128,71,66,24,24,24,24,24",
                         "endOffsets": "180,243,461,608,678,746,818,888,949,1023,1096,1157,1218,1280,1344,1406,1467,1535,1635,1695,1761,1834,1903,1960,2012,2074,2358,2434,2499,2558,2617,2677,2737,2797,2857,2917,2977,3037,3097,3157,3217,3276,3336,3396,3456,3516,3576,3636,3696,3756,3816,3876,3935,3995,4055,4114,4173,4232,4291,4350,4409,4444,4479,4534,4597,4652,4710,4767,4817,4878,4935,4969,5004,5039,5169,5240,5654,5855,6031,6415,6610,6749,6816,7259,15984,18049,19809,20186"
+                    }
+                },
+                {
+                    "source": "D:\\Dev\\Mobile Apps\\File_manager\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "353"
+                    },
+                    "to": {
+                        "startLines": "87",
+                        "startColumns": "4",
+                        "startOffsets": "5245",
+                        "endLines": "91",
+                        "endColumns": "12",
+                        "endOffsets": "5537"
                     }
                 }
             ]

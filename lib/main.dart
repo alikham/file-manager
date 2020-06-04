@@ -12,7 +12,7 @@ void main() {
   WidgetsFlutterBinding.ensureInitialized();
   Future<void> getSDCardDir() async {
     Common().sDCardDir = await ExtStorage.getExternalStorageDirectory();
-    print('ar main ${Common().sDCardDir}');
+    // print('ar main ${Common().sDCardDir}');
   }
 
   // Permission check
