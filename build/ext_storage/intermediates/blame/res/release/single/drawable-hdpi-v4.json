@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\Dev\\Mobile Apps\\File_manager\\flutter_file_manager\\build\\ext_storage\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\Envy15\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\db4f817d43155ab47a437cf0857262a9\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\Dev\\Mobile Apps\\File_manager\\flutter_file_manager\\build\\ext_storage\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\Envy15\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\db4f817d43155ab47a437cf0857262a9\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Dev\\Mobile Apps\\File_manager\\flutter_file_manager\\build\\ext_storage\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\Envy15\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\db4f817d43155ab47a437cf0857262a9\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Dev\\Mobile Apps\\File_manager\\flutter_file_manager\\build\\ext_storage\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\Envy15\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\db4f817d43155ab47a437cf0857262a9\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\Dev\\Mobile Apps\\File_manager\\flutter_file_manager\\build\\ext_storage\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\Envy15\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\db4f817d43155ab47a437cf0857262a9\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Dev\\Mobile Apps\\File_manager\\flutter_file_manager\\build\\permission_handler\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Envy15\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\db4f817d43155ab47a437cf0857262a9\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\Dev\\Mobile Apps\\File_manager\\flutter_file_manager\\build\\permission_handler\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Envy15\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\db4f817d43155ab47a437cf0857262a9\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\Dev\\Mobile Apps\\File_manager\\flutter_file_manager\\build\\permission_handler\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Envy15\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\db4f817d43155ab47a437cf0857262a9\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\Dev\\Mobile Apps\\File_manager\\flutter_file_manager\\build\\permission_handler\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Envy15\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\db4f817d43155ab47a437cf0857262a9\\res\\drawable\\notification_bg_low.xml"
+    }
+]
