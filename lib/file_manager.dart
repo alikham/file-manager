@@ -436,7 +436,7 @@ class _FileManagerState extends State<FileManager> {
                     }
 
                     String newPath = file.parent.path +
-                        '/' +
+                        '/' + 
                         newName +
                         (isFile?p.extension(file.path):'');
                         
