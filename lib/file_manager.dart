@@ -1,5 +1,6 @@
 import 'dart:async';
 
+import 'package:auto_size_text/auto_size_text.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'dart:io';
@@ -116,7 +117,11 @@ class _FileManagerState extends State<FileManager> {
           leading: Image.asset(Common().selectIcon(p.extension(file.path))),
           title: Padding(
             padding: const EdgeInsets.only(top: 5.0, bottom: 5.0),
-            child: Text(file.path.substring(file.parent.path.length + 1)),
+            // child: Text(file.path.substring(file.parent.path.length + 1)),
+            child: AutoSizeText(
+              file.path.substring(file.parent.path.length + 1),
+              maxLines: 2,
+            ),
           ),
           subtitle: Text(
               '$modifiedTime  ${Common().getFileSize(file.statSync().size)}',
@@ -183,7 +188,11 @@ class _FileManagerState extends State<FileManager> {
           leading: Image.asset('assets/images/folder.png'),
           title: Padding(
             padding: const EdgeInsets.only(bottom: 5.0, top: 5.0),
-            child: Text(file.path.substring(file.parent.path.length + 1)),
+            // child: Text(file.path.substring(file.parent.path.length + 1)),
+             child: AutoSizeText(
+              file.path.substring(file.parent.path.length + 1),
+              maxLines: 2,
+            ),
           ),
           subtitle: Row(
             children: [
@@ -454,7 +463,6 @@ class _FileManagerState extends State<FileManager> {
     );
   }
 
-  // 排序
   void sortFiles() {
     // print('at sort files ${parentDir.listSync()}');
     List<FileSystemEntity> _files = [];
