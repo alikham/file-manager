@@ -5,7 +5,6 @@ with added features like move, delete and resize of long filename with fixed max
 
 For the complete apk you can clone this repository in Vscode or Android Studio 
 
-Alternatively you can email me at akhan2501@gmail.com for the apk file
 
 ## Complete Demo
 
